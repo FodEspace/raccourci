@@ -82,6 +82,7 @@ Outils du quotidien
 ```
 <p style='color:blue' align='right'>
 https://wiki.bsf-intranet.org/doku.php?id=outils_internes:start
+</p>
 
 ```
 Les comptes rendus du squad
@@ -92,18 +93,15 @@ https://docs.google.com/document/d/1qO4Gpqa_T4MwPeZ7rkkgThhc8xW5mtDCSNseyqcNfBE/
 
 
 ```
-|Outils_De_Viz_utilisés: 
-  - Openrefine
-  - Flourish
-  - Datawrapper
-  
 |Auteur:
   - Nom: DIOUNNKOU
   - Prénom: Fodé
   - M2 Info-com, DEFI
   - 39016761@parisnanterre.fr
+  - fodediounkou@gmail.com
+  - 0652034121
   
 -----------------
-Date: 02-02-2021
+Date de Mj : 03-03-2021
 
 
