@@ -62,7 +62,9 @@ Sélection de contenus : définition du processus
 <p style='color:blue' align='right'>
  https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:start
 </p>
-
+<p style='color:blue' align='right'>
+https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:base_de_donnees_et_catalogage
+</p>
 ```
 Structure du wiki
 ```
@@ -91,7 +93,52 @@ Les comptes rendus du squad
 https://docs.google.com/document/d/1qO4Gpqa_T4MwPeZ7rkkgThhc8xW5mtDCSNseyqcNfBE/edit#
 </p>
 
+```
+Journal de bord Coallia
+```
+<p style='color:blue' align='right'>
+https://docs.google.com/document/d/1TCactBzC7tFUIdB_ER-_SlnrjPbQaMHdvOvCqzsVXVk/edit
+</p>
 
+```
+Connexion à OLIP (Coalia Dashboard)
+```
+<p style='color:blue' align='right'>
+http://coallia.bibliosansfrontieres.org/home
+</p>
+
+```
+Suivi retour partenaire Coallia
+```
+<p style='color:blue' align='right'>
+https://docs.google.com/spreadsheets/d/1hO5tCiw3K8vpNBuv6D5EQu-XsqsG3sIL3uzTFLbnGys/edit#gid=491390718
+</p>
+
+```
+Ma sélections de nouveaux contenus numériques (en cours)
+```
+<p style='color:green' align='right'>
+https://docs.google.com/spreadsheets/d/1rqW6dpGDhMKi6OKp4IY0fCupDcE_mcGVgBin1FZ7lIg/edit#gid=1986631018
+</p>
+
+```
+Guide de téléchargement
+```
+<p style='color:green' align='right'>
+https://wiki.bsf-intranet.org/doku.php?id=outils_divers:telechargement
+ </p>
+ 
+```
+Méthodologie pour compléter les fichiers List of content (demain) - (nom du format pdf dans l'ordi : LoC BDext Français 20210225)
+```
+<p style='color:green' align='right'>
+https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:remplir_le_fichier_list_of_content
+ </p>
+
+```
+Process importation Omeka_2020 (doc au format pdf : 3. Process importation Omeka_2020 modif proposée)
+```
+ 
 ```
 |Auteur:
   - Nom: DIOUNNKOU
