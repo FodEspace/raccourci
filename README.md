@@ -1,10 +1,6 @@
-# raccourci
-Page privée contenant des liens et infos utiles pour mon stage. Elle ne sera pas accessible au public. 
-
-
 -----------------------------------------------------------------------------
 <p style='color:blue' align='center'>
-Cette page est un repertoire des liens et informations utiles pour le bon déroulement de mon stage.
+#Cette page est un "repertoire" des liens et informations utiles pour le bon déroulement de mon stage.
 Ps: elle n'est pas accessible (visible) au public.
 </p>
 
