@@ -7,7 +7,7 @@ Cette page n'est pas accessible (visible) au public.
 ```
 Présentation de l'équipe Bibliothèque Sans frontières
 ```
-<p style='color:blue' align='center'>
+<p style='color:blue' align='right'>
 https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
 </p>
 
