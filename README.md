@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------
-<p style='color:green' align='center'>
+<p style='color:GREEN' align='center'>
 Cette page n'est pas accessible (visible) au public.
 </p>
 
