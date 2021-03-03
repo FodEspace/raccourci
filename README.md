@@ -5,7 +5,6 @@
 
 -----------------------------------------------------------------------------
 
-------------------
 ```
 Présentation de l'équipe Bibliothèque Sans frontières
 ```
@@ -17,94 +16,82 @@ https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
 ```
 Formation OMEKA par Laetititia et Stephane 
 ```
-<p style='color:red' align='center'>
+<p style='color:blue' align='center'>
 https://www.youtube.com/watch?v=lURkRS9GscU&feature=youtu.be
 </p>
 
-```Formation à OLIP par Stéphane
 ```
-
-<p style='color:red' align='center'>
+Formation à OLIP par Stéphane
+```
+<p style='color:blue' align='center'>
 https://www.youtube.com/watch?v=CWojM5CEEEo&feature=youtu.be
 </p>
 
-```Liens vers la plateforme OMEKA
 ```
-<p style='color:red' align='center'>
+Liens vers la plateforme OMEKA
+-Mes accès ID : fode.diounkou / mdp : Lalamperouge
+```
+<p style='color:blue' align='center'>
  https://omeka.tm.bsf-intranet.org/admin/
- Mes accès ID : fode.diounkou / mdp : Lalamperouge
  </p>
-
 
 ```
 Liens vers ma boite e-mail (Zimbra) de travail à BSF
+-user : fode.diounkou / pass: Les100pourcentrouges
 ```
-<p style='color:red' align='center'>
+<p style='color:blue' align='center'>
 https://mail.bibliosansfrontieres.org/
-user : fode.diounkou / pass: Les100pourcentrouges
  </p>
 
- 
-
------------------
-<p style='color:blue' align='center'>
+```
 Infos sur les outils et sur l'équipe 
 </p>
-
------------------
+```
+<p style='color:blue' align='center'>
 https://wiki.bsf-intranet.org/doku.php?id=start 
------------------
-<p style='color:blue' align='center'>
+</p>
+
+```
 Organigramme et missions
-</p>
-
-
------------------
-https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:start
------------------
+```
 <p style='color:blue' align='center'>
+https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:start
+</p>
+
+```
 Sélection de contenus : définition du processus
+```
+<p style='color:blue' align='center'>
+ https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:start
 </p>
 
------------------
-https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:start
-
-------------------
-<p style='color:red' align='center'>
+```
 Structure du wiki
-</p>
-
 ```
+<p style='color:blue' align='center'>
 https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:start&do=index
+</p>
 
 ```
-<p style='color:red' align='center'>
 Synology
-</p>
-
 ```
+<p style='color:blue' align='center'>
 https://wiki.bsf-intranet.org/doku.php?id=outils_internes:synology
-
+</p>
 ```
-
 ```
-<p style='color:red' align='center'>
 Outils du quotidien
-</p>
-
 ```
+<p style='color:blue' align='center'>
 https://wiki.bsf-intranet.org/doku.php?id=outils_internes:start
-
-```
-
-```
-<p style='color:red' align='center'>
-Les comptes rendus du squad
 </p>
 
 ```
-https://docs.google.com/document/d/1qO4Gpqa_T4MwPeZ7rkkgThhc8xW5mtDCSNseyqcNfBE/edit#
+Les comptes rendus du squad
 ```
+<p style='color:blue' align='center'>
+https://docs.google.com/document/d/1qO4Gpqa_T4MwPeZ7rkkgThhc8xW5mtDCSNseyqcNfBE/edit#
+</p>
 
 ----
 |Outils_De_Viz_utilisés: 
