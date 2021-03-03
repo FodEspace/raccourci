@@ -28,7 +28,6 @@ https://www.youtube.com/watch?v=lURkRS9GscU&feature=youtu.be
 https://www.youtube.com/watch?v=CWojM5CEEEo&feature=youtu.be
 </p>
 
-
 ```Liens vers la plateforme OMEKA
 ```
 <p style='color:red' align='center'>
