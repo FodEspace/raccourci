@@ -32,6 +32,13 @@ Mes accès ID : fode.diounkou / mdp : Lalamperouge
 <p style='color:blue' align='right'>
  https://omeka.tm.bsf-intranet.org/admin/
  </p>
+ 
+ ```
+ Kanboard:outil de gestion de projet (ps:il faut que je me rappelle mes accès à Laetitia)
+ ```
+<p style='color:blue' align='right'>
+https://kanboard.bsf-intranet.org/login
+ </p>
 
 ```
 Liens vers ma boite e-mail (Zimbra) de travail à BSF
@@ -114,6 +121,20 @@ https://docs.google.com/spreadsheets/d/1hO5tCiw3K8vpNBuv6D5EQu-XsqsG3sIL3uzTFLbn
 </p>
 
 ```
+Mise à jour IDC Coallia (le doc envoyé à Coalia)
+```
+<p style='color:green' align='right'>
+https://docs.google.com/spreadsheets/d/1_KmXlimplA6k51AHE-aDhpS5FerHfjbR_Dnmq0Wytwo/edit#gid=491390718
+</p>
+
+```
+contenus_coallia_extract_15_septembre (envoyé par Léa M)
+```
+<p style='color:green' align='right'>
+https://docs.google.com/spreadsheets/d/11L9jg1WfN2kO_fgBorRc6kk1JcYVJMqkvu29SRvLduY/edit#gid=1292823076
+</p>
+
+```
 Ma sélections de nouveaux contenus numériques (en cours)
 ```
 <p style='color:green' align='right'>
@@ -133,11 +154,10 @@ Méthodologie pour compléter les fichiers List of content - (nom du format pdf 
 <p style='color:green' align='right'>
 https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:remplir_le_fichier_list_of_content
  </p>
-
+ 
 ```
 Process importation Omeka_2020 (doc au format pdf : 3. Process importation Omeka_2020 modif proposée)
 ```
- 
 
 |Auteur:
   - Nom: DIOUNNKOU
