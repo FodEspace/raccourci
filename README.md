@@ -1,7 +1,6 @@
 -----------------------------------------------------------------------------
 <p style='color:blue' align='center'>
-#Cette page est un "repertoire" des liens et informations utiles pour le bon déroulement de mon stage.
-Ps: elle n'est pas accessible (visible) au public.
+#Cette page n'est pas accessible (visible) au public.
 </p>
 
 -----------------------------------------------------------------------------
