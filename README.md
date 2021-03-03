@@ -11,7 +11,6 @@ Présentation de l'équipe Bibliothèque Sans frontières
 https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
 </p>
 
-
 ```
 Formation OMEKA par Laetititia et Stephane 
 ```
@@ -129,7 +128,7 @@ https://wiki.bsf-intranet.org/doku.php?id=outils_divers:telechargement
  </p>
  
 ```
-Méthodologie pour compléter les fichiers List of content (demain) - (nom du format pdf dans l'ordi : LoC BDext Français 20210225)
+Méthodologie pour compléter les fichiers List of content - (nom du format pdf : LoC BDext Français 20210225)
 ```
 <p style='color:green' align='right'>
 https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:remplir_le_fichier_list_of_content
