@@ -4,9 +4,9 @@ Cette page n'est pas accessible (visible) au public.
 </p>
 
 -----------------------------------------------------------------------------
-```
-Présentation de l'équipe Bibliothèque Sans frontières
-```
+
+#Présentation de l'équipe Bibliothèque Sans frontières
+
 <p style='color:blue' align='right'>
 https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
 </p>
