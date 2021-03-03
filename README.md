@@ -161,7 +161,7 @@ https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:select
 Process importation Omeka_2020 (doc au format pdf : 3. Process importation Omeka_2020 modif proposée)
 ```
 
-|Auteur:
+Auteur:
   - Nom: DIOUNNKOU
   - Prénom: Fodé
   - M2 Info-com, DEFI
