@@ -7,11 +7,12 @@
 
 ------------------
 <p style='color:red' align='center'>
-Présentation de l'équipe Bibliothèque Sans frontières
+https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
 </p>
 
 ```
-https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
+Présentation de l'équipe Bibliothèque Sans frontières
+
 ```
 
 
