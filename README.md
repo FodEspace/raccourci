@@ -76,7 +76,7 @@ Synology
 <p style='color:blue' align='right'>
 https://wiki.bsf-intranet.org/doku.php?id=outils_internes:synology
 </p>
-```
+
 ```
 Outils du quotidien
 ```
@@ -89,8 +89,9 @@ Les comptes rendus du squad
 <p style='color:blue' align='right'>
 https://docs.google.com/document/d/1qO4Gpqa_T4MwPeZ7rkkgThhc8xW5mtDCSNseyqcNfBE/edit#
 </p>
+
+
 ```
-----
 |Outils_De_Viz_utilisés: 
   - Openrefine
   - Flourish
