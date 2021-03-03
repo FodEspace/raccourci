@@ -9,49 +9,42 @@
 ```
 Présentation de l'équipe Bibliothèque Sans frontières
 ```
-
-
-<p style='color:red' align='center'>
+<p style='color:blue' align='center'>
 https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
 </p>
 
 
-
-<p style='color:red' align='center'>
+```
 Formation OMEKA par Laetititia et Stephane 
-</p>
-
 ```
+<p style='color:red' align='center'>
 https://www.youtube.com/watch?v=lURkRS9GscU&feature=youtu.be
+</p>
+
+```Formation à OLIP par Stéphane
 ```
 
 <p style='color:red' align='center'>
-Formation à OLIP par Stéphane
-</p>
-
-```
 https://www.youtube.com/watch?v=CWojM5CEEEo&feature=youtu.be
-```
-
-
-<p style='color:red' align='center'>
-Liens vers la plateforme OMEKA
 </p>
 
+
+```Liens vers la plateforme OMEKA
 ```
+<p style='color:red' align='center'>
  https://omeka.tm.bsf-intranet.org/admin/
  Mes accès ID : fode.diounkou / mdp : Lalamperouge
- ```
+ </p>
 
-
-<p style='color:red' align='center'>
-Liens vers ma boite e-mail (Zimbra) de travail à BSF
-</p>
 
 ```
+Liens vers ma boite e-mail (Zimbra) de travail à BSF
+```
+<p style='color:red' align='center'>
 https://mail.bibliosansfrontieres.org/
 user : fode.diounkou / pass: Les100pourcentrouges
-```
+ </p>
+
  
 
 -----------------
