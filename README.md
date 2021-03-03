@@ -10,21 +10,52 @@ Ps: elle n'est pas accessible (visible) au public.
 
 -----------------------------------------------------------------------------
 
+------------------
+<p style='color:red' align='center'>
 Présentation de l'équipe Bibliothèque Sans frontières
+</p>
+
+```
 https://www.bibliosansfrontieres.org/bsf-org/lequipe/#directiongenerale
+```
 
+
+<p style='color:red' align='center'>
 Formation OMEKA par Laetititia et Stephane 
+</p>
+
+```
 https://www.youtube.com/watch?v=lURkRS9GscU&feature=youtu.be
+```
 
+<p style='color:red' align='center'>
 Formation à OLIP par Stéphane
+</p>
+
+```
 https://www.youtube.com/watch?v=CWojM5CEEEo&feature=youtu.be
+```
 
-Liens vers la plateforme OMEKA: https://omeka.tm.bsf-intranet.org/admin/
-Mes accès ID : fode.diounkou / mdp : Lalamperouge
 
+<p style='color:red' align='center'>
+Liens vers la plateforme OMEKA
+</p>
+
+```
+ https://omeka.tm.bsf-intranet.org/admin/
+ Mes accès ID : fode.diounkou / mdp : Lalamperouge
+ ```
+
+
+<p style='color:red' align='center'>
 Liens vers ma boite e-mail (Zimbra) de travail à BSF
+</p>
+
+```
 https://mail.bibliosansfrontieres.org/
 user : fode.diounkou / pass: Les100pourcentrouges
+```
+ 
 
 -----------------
 <p style='color:blue' align='center'>
@@ -48,12 +79,6 @@ Sélection de contenus : définition du processus
 
 -----------------
 https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:start
-
-----------------
-<p style='color:blue' align='center'>
-+Hommage <iframe src='https://flo.uri.sh/story/743592/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' ></iframe><div style='width:100%!; margin-top:4px!important;text-align:right!important;' ></div></p>
-
---------------
 
 ------------------
 <p style='color:red' align='center'>
