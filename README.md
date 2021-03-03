@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=CWojM5CEEEo&feature=youtu.be
 
 ```
 Liens vers la plateforme OMEKA
--Mes accès ID : fode.diounkou / mdp : Lalamperouge
+Mes accès ID : fode.diounkou / mdp : Lalamperouge
 ```
 <p style='color:blue' align='right'>
  https://omeka.tm.bsf-intranet.org/admin/
@@ -36,7 +36,7 @@ Liens vers la plateforme OMEKA
 
 ```
 Liens vers ma boite e-mail (Zimbra) de travail à BSF
--user : fode.diounkou / pass: Les100pourcentrouges
+User : fode.diounkou / pass: Les100pourcentrouges
 ```
 <p style='color:blue' align='right'>
 https://mail.bibliosansfrontieres.org/
