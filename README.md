@@ -63,7 +63,7 @@ https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:start
 </p>
 
 ```
-Sélection de contenus : définition du processus
+Sélection de contenus et catalogage : processus
 ```
 <p style='color:blue' align='right'>
  https://wiki.bsf-intranet.org/doku.php?id=contenus_education_et_formation:selection_des_contenus:start
