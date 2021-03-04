@@ -5,6 +5,13 @@ Cette page n'est pas accessible (visible) au public.
 
 -----------------------------------------------------------------------------
 ```
+Noté ma journée
+```
+<p style='color:blue' align='center'>
+https://docs.google.com/spreadsheets/d/1phVMb_ZoNMQ6JRGQeIrfmDULoW5lR4G_okmXxc2bIgw/edit#gid=0
+</p>
+
+```
 #Présentation de l'équipe Bibliothèque Sans frontières
 ```
 <p style='color:blue' align='center'>
